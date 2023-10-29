@@ -1,5 +1,5 @@
 # PassMan
-Simple Password Manager made with HTML/CSS, vanilla JavaScript and pure NodeJS(No Express). Made for school project. 
+Simple Password Manager made with HTML/CSS, vanilla JavaScript and pure NodeJS(No Express).
 
 Node Modules :
 body-parser": "^1.20.1",
